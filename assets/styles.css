@@ -1,0 +1,13 @@
+.rc-slider-mark-text {
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #AAAAAA;
+}
+
+.rc-slider-mark-text-active {
+  color: white;
+}
+
+.rc-slider-tooltip-inner {
+  visibility: hidden;
+}
